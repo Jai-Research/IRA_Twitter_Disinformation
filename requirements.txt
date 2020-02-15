@@ -1,0 +1,5 @@
+pandas==1.0.1
+torch==1.4.0
+numpy==1.18.1
+fastai==1.0.60
+streamlit==0.55.0
