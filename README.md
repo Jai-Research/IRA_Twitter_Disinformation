@@ -1,4 +1,4 @@
-# "_Internet Research Agency_: Fastai Tweet Classifier"
+# **_Internet Research Agency: Fastai Tweet Classifier_**
 
 ## _Is it the Russians?_ 
 
