@@ -1,5 +1,7 @@
 # **_Internet Research Agency: Fastai Tweet Classifier_**
 
+[![](http://img.youtube.com/vi/1VYMgvKWfmI/0.jpg)](http://www.youtube.com/watch?v=1VYMgvKWfmI "Detecting Disinformation: Classifying Tweets linked to the IRA with Deep Learning")
+
 ## _Is it the Russians?_ 
 
 It is becoming increasingly evident that [information operations](https://en.wikipedia.org/wiki/Information_warfare) are being heavily utilized, by both state and non-state actors, on a range of social media platforms in an attempt to sway public opinion. Perhaps the most infamous outfit that conducts in these online influence operations is the [Internet Research Agency](https://en.wikipedia.org/wiki/Internet_Research_Agency) (_Russian: Агентство интернет-исследований_).
