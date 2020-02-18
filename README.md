@@ -1,6 +1,6 @@
 # **_Internet Research Agency: Fastai Tweet Classifier_**
 
-[![](http://img.youtube.com/vi/1VYMgvKWfmI/0.jpg)](http://www.youtube.com/watch?v=1VYMgvKWfmI "Detecting Disinformation: Classifying Tweets linked to the IRA with Deep Learning")
+![Gif of Streamlit app](https://media.giphy.com/media/gKTFFrCEVlM3ujCkVx/giphy.gif)
 
 ## _Is it the Russians?_ 
 
